@@ -1,0 +1,9 @@
+Title,URL,Username,Password,Notes,OTPAuth
+apple.com (profpi241998@icloud.com),http://apple.com/,profpi241998@icloud.com,Nguyenquanghuy2406@,,
+facebook.com (0988068495),https://facebook.com/,0988068495,Nguyenquanghuy1998,,
+limited.facebook.com (hhhuuuyyy98@gmail.com),https://limited.facebook.com/,hhhuuuyyy98@gmail.com,Nguyenquanghuy1998,,
+accounts.google.com (tyuy2715@gmail.com),https://accounts.google.com/,tyuy2715@gmail.com,pymsig-recvi1-hypqeN,,otpauth://totp/Google%3Atyuy2715%40gmail.com?secret=7b7wa4b6tbxeoleqxslruzqdyqnbs4v2&issuer=Google
+myaccount.google.com (tyuy2715@gmail.com),https://myaccount.google.com/,tyuy2715@gmail.com,pymsig-recvi1-hypqeN,,otpauth://totp/Google%3Atyuy2715%40gmail.com?secret=7b7wa4b6tbxeoleqxslruzqdyqnbs4v2&issuer=Google
+me-qr.com (Abc0911454886),https://me-qr.com/,Abc0911454886,kujhy5-Rokwam-totpyn@@,,
+me-qr.com (thangluadao197@gmail.com),https://me-qr.com/,thangluadao197@gmail.com,Abc0911454886,,
+apps.mzstatic.com,https://apps.mzstatic.com/,,sojgow-pobcot-8hYche,,
